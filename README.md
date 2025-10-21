@@ -56,6 +56,8 @@
 - [ ] приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
 ---
+![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/6.png)
+![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/5.png)
 
 ### Задание 4* (со звездочкой)
 
