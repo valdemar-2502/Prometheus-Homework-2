@@ -33,6 +33,9 @@
 - [ ] Погасите node exporter, стоящий на мониторинге, и прикрепите скриншот раздела оповещений Prometheus, где оповещение будет в статусе Pending
 
 ---
+![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/1.png)
+
+![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/2.png)
 
 ### Задание 2
 Установите Alertmanager и интегрируйте его с Prometheus.
@@ -41,6 +44,9 @@
 - [ ] Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения
 
 ---
+![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/3.png)
+
+![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/4.png)
 
 ### Задание 3
 
